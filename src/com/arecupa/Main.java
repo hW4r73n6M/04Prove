@@ -7,6 +7,6 @@ public class Main {
 
     public static void main(String[] args){
         Main hello = new Main();
-        hello.sayHello("Herick");
+        hello.sayHello("Sebastian");
     }
 }
